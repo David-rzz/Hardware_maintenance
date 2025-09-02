@@ -1,6 +1,6 @@
 # 🔧Hardware_maintenance
 ---
-Este repositório reúne boas práticas, checklists dicas sobre **montagem e manutenção de computadores**👨‍💻
+Este repositório reúne meus conhecimentos em boas práticas, checklists e dicas sobre **montagem e manutenção de computadores**👨‍💻
 ---
 ## 📑Conteúdo
 - Checklist para montagem de computadores
