@@ -19,5 +19,4 @@ esta seção serve como guia pessoal mas também como portifólio de estudos �
   Utilizar como um guia pessoal para eventuais consultas e como **caderno para registrar conhecimentos obtidos**.
 
   ---
-  ###Desenvolvido por *David Renan*
-G
+  ###Desenvolvido por [*David Renan*](
