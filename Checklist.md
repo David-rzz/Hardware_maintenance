@@ -53,7 +53,7 @@ Começaremos com a montagem do computador fora do gabinete
       
 - [ ] Encaixar os módulos de memória RAM até que seja ouvido um som de encaixe das travas;
 
-Coloque a placa-mãe de lado e vamos às outras partes🔌
+**Coloque a placa-mãe de lado e vamos às outras partes🔌**
 
 - [ ] Coloque a fonte de alimentação no gabinete e parafuse bem;
       
