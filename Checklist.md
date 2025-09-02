@@ -2,7 +2,7 @@
 ---
 Adianto à todos que não existe uma maneira "correta" de se montar um computador, a ordem de montagem varia de acordo com a preferência de quem está manuseando as peças, dito isso, a seguir teremos uma checklist para conhecermos meu modo de montar um computador
 
-- [ ] 1º - Verificar se todos os componentes essênciais estão à postos e prontos para uso;
+- ### ***1º*** - *Verificar se todos os componentes essênciais estão à postos e prontos para uso;*
 **Quais componentes essênciais são esses?**
 - [ ] Fonte de alimentação;
 - [ ] PLaca-mãe
@@ -15,5 +15,5 @@ Adianto à todos que não existe uma maneira "correta" de se montar um computado
 -  [ ] Placa-gráfica
 -  [ ] Placa de rede
       
-- [ ] 2º -
+- ### ***2º*** - 
 - [ ] 
