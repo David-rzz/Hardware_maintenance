@@ -9,10 +9,8 @@ Este repositório reúne meus conhecimentos em boas práticas, checklists e dica
 - Ferramentas recomendadas
   
   ---
-
   
-  ##📸 Exemplos
-
+  ## 📸 Exemplos
 
   ---
   ## 🚀 Objetivo
