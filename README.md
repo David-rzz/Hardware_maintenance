@@ -1,8 +1,9 @@
 # 🔧 Hardware maintenance
 ---
-## Este repositório reúne meus conhecimentos **sobre montagem e manutenção de computadores** 🧠
+## Compartilho com vocês meus conhecimentos sobre **manutenção e montagem de computadores**
+esta seção serve como guia pessoal mas também como portifólio de estudos 🧠
 ---
-### 📑Conteúdo
+### 📑 Conteúdo
 - [Checklist para montagem de computadores](Checklist.md)
 - Procedimentos básicos de diagnóstico
 - Como escolher as peças para montagem
@@ -16,3 +17,7 @@
   ---
   ### 🚀 Objetivo
   Utilizar como um guia pessoal para eventuais consultas e como **caderno para registrar conhecimentos obtidos**.
+
+  ---
+  ###Desenvolvido por *David Renan*
+G
