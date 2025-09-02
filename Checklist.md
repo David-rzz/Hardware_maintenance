@@ -2,7 +2,8 @@
 ---
 Adianto à todos que não existe uma maneira "correta" de se montar um computador, a ordem de montagem varia de acordo com a preferência de quem está manuseando as peças, dito isso, a seguir teremos uma checklist para conhecermos meu modo de montar um computador
 
-- ### ***1º*** - *Verificar se todos os componentes essênciais estão à postos e prontos para uso;*
+### 1º - *Verificar se todos os componentes essênciais estão à postos e prontos para uso;*
+  
 **Quais componentes essênciais são esses?**
 - [ ] Fonte de alimentação;
 - [ ] Placa-mãe
@@ -12,21 +13,26 @@ Adianto à todos que não existe uma maneira "correta" de se montar um computado
 - [ ] Gabinete
 - [ ] Coolers do gabinete e do processador
 - [ ] Pasta-térmica
-- **Itens não obrigatórios mas podem ser encontrados no processo de montagem**
+    
+- **Itens não obrigatórios mas recomendados**
 -  [ ] Placa-gráfica
 -  [ ] Placa de rede
 
----     
+---
 
-- ### ***2º*** - *Descarga de energia estática*
-  Embora atualmente os componentes tenham mais proteção contra energia estática, ela ainda pode danificar as peças do computador e merece ser recordada nesta lista 
-- [ ] Realizar a descarga da energia estática com uma pulseira anti-estática ou então tocar os dedos em uma superfície aterrada por alguns segundos,
+### 2º - *Descarga de energia estática*
+  Embora atualmente os componentes tenham mais proteção contra energia estática, ela ainda pode danificar as peças do computador e merece ser recordada nesta lista
+  
+- [ ] Realizar a descarga da energia estática com uma pulseira anti-estática ou então tocar os dedos em uma superfície aterrada por alguns segundos.
+   
  No caso de não haver a pulseira, a descarga via toque em objetos aterrados deve ser realizada a cada dez minutos.
 
 ---
 
-- ### ***3º*** - *Detalhando o processo de montagem*
+### 3º - *Detalhando o processo de montagem*
+  
 Começaremos com a montagem do computador fora do gabinete
+
 - [ ] Encaixar o processador no soquete da placa-mãe e trava-lo;
 - [ ] **ATENÇAÕ** Aplicar uma pequena quantidade sobre o processador de modo que não fique em excesso ou escasso;
 - [ ] Conectar o cooler do processador e parafusar ao redor (Em caso de water coolers o processo é semelhante);
