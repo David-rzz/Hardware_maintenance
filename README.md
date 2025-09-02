@@ -1,9 +1,9 @@
 # 🔧 Hardware maintenance
 ---
-## Compartilho com vocês meus conhecimentos sobre **manutenção e montagem de computadores**
-esta seção serve como guia pessoal mas também como portifólio de estudos 🧠
+## Compartilho com vocês meus conhecimentos sobre **manutenção e montagem de computadores**. 🛠️
+Essa amostra serve não só como guia pessoal mas também como **portfólio de estudos** 🧠
 ---
-### 📑 Conteúdo
+## 📑 Conteúdo
 - [Checklist para montagem de computadores](Checklist.md)
 - Procedimentos básicos de diagnóstico
 - Como escolher as peças para montagem
@@ -11,12 +11,12 @@ esta seção serve como guia pessoal mas também como portifólio de estudos �
   
   ---
   
-  ### 📸 Exemplos
+  ## 📸 Exemplos
 (Em breve fotos e esquemas gráficos sobre o assunto)
 
   ---
-  ### 🚀 Objetivo
+  ## 🚀 Objetivo
   Utilizar como um guia pessoal para eventuais consultas e como **caderno para registrar conhecimentos obtidos**.
 
   ---
-  ###Desenvolvido por [*David Renan*](
+   👓 *Desenvolvido por [David Renan](https://github.com/David-rzz)*
