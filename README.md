@@ -4,10 +4,10 @@
 Essa amostra serve não só como guia pessoal mas também como **portfólio de estudos** 🧠
 ---
 ## 📑 Conteúdo
-- [Checklist para montagem de computadores](Checklist.md)
-- [Procedimentos básicos de diagnóstico](Diagnóstico.md)
-- [Como escolher as peças para montagem](Peças.md)
-- [Ferramentas recomendadas](Ferramentas.md) 
+- [Checklist para montagem de computadores](Checklist.md) - Guia para montagem de computadores
+- [Procedimentos básicos de diagnóstico](Diagnostico.md) - Diagnosticar erros comuns de hardware
+- [Como escolher as peças para montagem](Pecas.md) - Entender melhor cada componente do computador
+- [Ferramentas recomendadas](Ferramentas.md) - Softwates usados para análise de desempenho e erros
   
   ---
   
@@ -20,3 +20,5 @@ Essa amostra serve não só como guia pessoal mas também como **portfólio de e
 
   ---
    👓 *Desenvolvido por [David Renan](https://github.com/David-rzz)*
+
+   ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
