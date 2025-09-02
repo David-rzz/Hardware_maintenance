@@ -5,9 +5,9 @@ Essa amostra serve não só como guia pessoal mas também como **portfólio de e
 ---
 ## 📑 Conteúdo
 - [Checklist para montagem de computadores](Checklist.md)
-- Procedimentos básicos de diagnóstico
-- Como escolher as peças para montagem
-- Ferramentas recomendadas 
+- [Procedimentos básicos de diagnóstico](Diagnóstico.md)
+- [Como escolher as peças para montagem](Peças.md)
+- [Ferramentas recomendadas](Ferramentas.md) 
   
   ---
   
