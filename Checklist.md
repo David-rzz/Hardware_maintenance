@@ -34,7 +34,8 @@ Adianto à todos que não existe uma maneira "correta" de se montar um computado
 Começaremos com a montagem do computador fora do gabinete
 
 - [ ] Encaixar o processador no soquete da placa-mãe e trava-lo;
-- [ ] **ATENÇAÕ** Aplicar uma pequena quantidade sobre o processador de modo que não fique em excesso ou escasso;
+- [ ] Aplicar uma pequena quantidade de pasta térmica sobre o processador;
+    **ATENÇAÕ**: Colocar o minímo possível para que não haja excesso mas que seja o suficiente para não ser escasso.
 - [ ] Conectar o cooler do processador e parafusar ao redor (Em caso de water coolers o processo é semelhante);
 - [ ] Conectar o cabo das fans do processador na placa-mãe;
 - [ ] Destravar os encaixes da memória RAM, lembrando-se de "pular" um para conectar dois módulos de RAM e ativar o dual-channel;
