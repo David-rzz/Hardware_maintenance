@@ -35,6 +35,7 @@ Começaremos com a montagem do computador fora do gabinete
 
 - [ ] Encaixar o processador no soquete da placa-mãe e trava-lo;
 - [ ] Aplicar uma pequena quantidade de pasta térmica sobre o processador;
+
     **ATENÇAÕ**: Colocar o minímo possível para que não haja excesso mas que seja o suficiente para não ser escasso.
 - [ ] Conectar o cooler do processador e parafusar ao redor (Em caso de water coolers o processo é semelhante);
 - [ ] Conectar o cabo das fans do processador na placa-mãe;
