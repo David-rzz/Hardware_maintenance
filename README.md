@@ -7,6 +7,7 @@ Este repositório reúne meus conhecimentos em boas práticas, checklists e dica
 - Procedimentos básicos de diagnóstico
 - Como escolher as peças para montagem
 - Ferramentas recomendadas
+  
   ---
   
   ##📸 Exemplos
