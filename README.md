@@ -3,10 +3,10 @@
 Este repositório reúne meus conhecimentos em boas práticas, checklists e dicas sobre **montagem e manutenção de computadores**👨‍💻
 ---
 ## 📑Conteúdo
-- [] Checklist para montagem de computadores
-- [] Procedimentos básicos de diagnóstico
-- [] Como escolher as peças para montagem
-- [] Ferramentas recomendadas 
+-[ ] Checklist para montagem de computadores
+-[ ] Procedimentos básicos de diagnóstico
+-[ ] Como escolher as peças para montagem
+-[ ] Ferramentas recomendadas 
   
   ---
   
