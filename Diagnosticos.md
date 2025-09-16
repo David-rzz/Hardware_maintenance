@@ -54,7 +54,7 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
   - Tela azul em jogos.
 
 **Possíveis causas:**
-- Cabo de vídeo com mal encaixado;
+- Cabo de vídeo mal encaixado;
 - Placa de vídeo com defeito;
 - Problemas com monitor;
 - Configurações de resolução erradas.
@@ -72,7 +72,7 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
 **Se seu computador exibe vídeo mas com problemas de resolução:**
 - Clique com o botão direito do mouse na área de trabalho e selecione "configurações de exibição";
 - A partir dessas configurações você poderá alterar coisas como resolução e configurar mais de um monitor;
-- Fonte de alimentação fraca pode prejudicar elementos gráficos em casos de placa de vídeo dedicadas;
+- Fonte de alimentação fraca pode prejudicar elementos gráficos em casos de placa de vídeo dedicada;
 - Tente reinstalar os drivers da placa de vídeo.
 
 **Notas**
@@ -99,12 +99,12 @@ Se você está lidando com algum tipo de problema relacionado ao som ou dúvidas
 - Cabos conectados de forma errada;
 - Drivers desatualizados ou corrompidos
 - Conflito de dispositivos, no caso de haver mais de um;
-- Problemas no dispositivo de aúdio.
+- Problemas no dispositivo de áudio.
 
 **Fase de testes iniciais:**
 - Verifique se os cabos do dispositivo de som estão conectados corretamente;
-- O som pode sair pelas entradas P2 (caixas de som analógicas), HDMI (televisores/monitores ou USB (headsets digitais);
-- Atualize ou drivers de som ou reinstale-os pelo site da fabricante (Realtek, Intel, etc);
+- O som pode sair pelas entradas P2 (caixas de som analógicas), HDMI (televisores/monitores) ou USB (headsets digitais);
+- Atualize os drivers de som ou reinstale-os pelo site do fabricante (Realtek, Intel, etc);
 - Teste os dispositivos de som em outro aparelho para descartar falha neles;
 - Use outra entrada USB ou P2 para descartar mau contato;
 - Abra as configurações de som do Windows/Linux e verifique se o sistema está enviando o áudio para o dispositivo correto.
@@ -112,9 +112,9 @@ Se você está lidando com algum tipo de problema relacionado ao som ou dúvidas
 **Se o problema for relacionado ao bluetooth:**
 - Reinicie o bluetooth e tente novamente;
 - Remova o dispositivo e pareie de novo;
-- Verifique se o headset esté em modo de pareamento;
-- Se houver mais de uma saída de aúdio configurada, defina a padrão pelas configurações;
-- Utilize softwares como voicemetter (Windows) ou Pulseaudio/Pipewire (Linux) para configurar dois disposivos de som simultâneos.
+- Verifique se o headset está em modo de pareamento;
+- Se houver mais de uma saída de áudio configurada, defina a padrão pelas configurações;
+- Utilize softwares como Voicemeeter (Windows) ou Pulseaudio/Pipewire (Linux) para configurar dois dispositivos de som simultâneos.
 > 💡 **Dica Extra:**  
 > Pressione <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> para reiniciar rapidamente os drivers de vídeo.— isso pode resolver também alguns casos em que o som via HDMI não funciona.
 
@@ -123,7 +123,7 @@ Se você está lidando com algum tipo de problema relacionado ao som ou dúvidas
 Se seu computador está superaquecendo mesmo em tarefas simples, pode ser um indicativo de problemas que devem ser resolvidos agora para evitar danos aos componentes no futuro.
 
 **Sintomas:**
-- Temperatura dos componentes alta;
+- Temperatura dos componentes altas;
 - Cabo de alimentação quente;
 - Desligamentos ou reinicializações repentinas;
 - Tela azul ou travamentos.
