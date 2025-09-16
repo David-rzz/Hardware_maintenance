@@ -10,8 +10,9 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
  - 🔌 Problemas de inicialização
  - 📽️ Problemas de vídeo
  - 🔊 Problemas de som
- - 🌐 Problemas de rede
  - 🔥 Problemas de superaquecimento
+ - 🌐 Problemas de rede
+
 
     ---
  ###  **🔌 Problemas de inicialização**
@@ -116,6 +117,40 @@ Se você está lidando com algum tipo de problema relacionado ao som ou dúvidas
 - Utilize softwares como voicemetter (Windows) ou Pulseaudio/Pipewire (Linux) para configurar dois disposivos de som simultâneos.
 > 💡 **Dica Extra:**  
 > Pressione <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> para reiniciar rapidamente os drivers de vídeo.— isso pode resolver também alguns casos em que o som via HDMI não funciona.
+
+---
+### **🔥 Problemas de superaquecimento**
+Se seu computador está superaquecendo mesmo em tarefas simples, pode ser um indicativo de problemas que devem ser resolvidos agora para evitar danos aos componentes no futuro.
+
+**Sintomas:**
+- Temperatura dos componentes alta;
+- Cabo de alimentação quente;
+- Desligamentos ou reinicializações repentinas;
+- Tela azul ou travamentos.
+
+**Possíveis causas:**
+- Poeira acumulada nos componentes;
+- Fans com defeito ou mal posicionadas;
+- Componente com defeito;
+- Fonte de alimentação de baixa qualidade;
+- Pasta térmica ressecada;
+- Mau planejamento do fluxo de ar no gabinete;
+- Overclock mal planejado;
+
+**Fase inicial de testes:**
+- Monitore a temperatura do computador com softwares como MSI Afterburner por exemplo;
+- Realize uma limpeza completa no gabinete, fans, dissipadores e filtros de ar;
+- Perceba se existe um componente em específico que esteja superaquecendo - Ex. Apenas CPU ou GPU;
+- Confira a qualidade da sua fonte de alimentação e se a potência fornecida por ela é o suficiente para seu setup;
+- Realize a troca da pasta térmica da CPU;
+- Certifique-se que o fluxo de ar no gabinete está sendo eficiente e que todas as fans estão girando;
+- Depois de um overclock, a refrigeração atual pode se tornar insuficiente;
+
+> 💡 **Dica Extra:**
+> Se o superaquecimento ocorrer apenas em jogos ou softwares pesados, verifique o uso de GPU/CPU. O problema pode estar em overclock automático do fabricante (turbo boost) exigindo uma refrigeração melhor do que a instalada.
+
+---
+
      
      
      
