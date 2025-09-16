@@ -81,11 +81,41 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
 - Utilize softwares como MSI Afterburner ou HWMonitor para monitorar a temperatura e uso da placa de vídeo;
 - Alguns monitores podem possuir drivers próprios, verifique no site da fabricante.
 
- > 💡 **Dica Extra:**  
+> 💡 **Dica Extra:**  
 > Pressione <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> para reiniciar rapidamente os drivers de vídeo.
 
   ---
-  
+### **🔊 Problemas de som**
+Se você está lidando com algum tipo de problema relacionado ao som ou dúvidas de como configurar dispositivos, confira este guia:
+
+**Sintomas:**
+- Dispositivo de som conectado mas sem som;
+- Fones de ouvido bluetooth não conectam;
+- Dúvidas para configurar dispositivos de som;
+- Som distorcido ou com ruídos.
+
+**Possíveis causas:**
+- Cabos conectados de forma errada;
+- Drivers desatualizados ou corrompidos
+- Conflito de dispositivos, no caso de haver mais de um;
+- Problemas no dispositivo de aúdio.
+
+**Fase de testes iniciais:**
+- Verifique se os cabos do dispositivo de som estão conectados corretamente;
+- O som pode sair pelas entradas P2 (caixas de som analógicas), HDMI (televisores/monitores ou USB (headsets digitais);
+- Atualize ou drivers de som ou reinstale-os pelo site da fabricante (Realtek, Intel, etc);
+- Teste os dispositivos de som em outro aparelho para descartar falha neles;
+- Use outra entrada USB ou P2 para descartar mau contato;
+- Abra as configurações de som do Windows/Linux e verifique se o sistema está enviando o áudio para o dispositivo correto.
+
+**Se o problema for relacionado ao bluetooth:**
+- Reinicie o bluetooth e tente novamente;
+- Remova o dispositivo e pareie de novo;
+- Verifique se o headset esté em modo de pareamento;
+- Se houver mais de uma saída de aúdio configurada, defina a padrão pelas configurações;
+- Utilize softwares como voicemetter (Windows) ou Pulseaudio/Pipewire (Linux) para configurar dois disposivos de som simultâneos.
+> 💡 **Dica Extra:**  
+> Pressione <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> para reiniciar rapidamente os drivers de vídeo.— isso pode resolver também alguns casos em que o som via HDMI não funciona.
      
      
      
