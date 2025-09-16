@@ -1,7 +1,7 @@
 # 🔧 Hardware maintenance
 ---
-## Compartilho com vocês meus conhecimentos sobre **manutenção e montagem de computadores**. 🛠️
-Essa amostra serve não só como guia pessoal mas também como **portfólio de estudos** 🧠
+##Este material reúne meus conhecimentos sobre **manutenção e montagem de computadores**. 🛠️
+Além de servir como guia pessoal, também funciona como parte do meu **portfólio de estudos** 🧠
 ---
 ## 📑 Conteúdo
 - [Checklist para montagem](Checklist.md) - Guia prático
