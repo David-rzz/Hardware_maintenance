@@ -1,6 +1,6 @@
 # 🔧 Hardware maintenance
 ---
-##Este material reúne meus conhecimentos sobre **manutenção e montagem de computadores**. 🛠️
+## Este material reúne meus conhecimentos sobre **manutenção e montagem de computadores**. 🛠️
 Além de servir como guia pessoal, também funciona como parte do meu **portfólio de estudos** 🧠
 ---
 ## 📑 Conteúdo
