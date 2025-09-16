@@ -4,10 +4,10 @@
 Essa amostra serve não só como guia pessoal mas também como **portfólio de estudos** 🧠
 ---
 ## 📑 Conteúdo
-- [Checklist para montagem de computadores](Checklist.md) - Guia para montagem de computadores
-- [Procedimentos básicos de diagnóstico](Diagnosticos.md) - Diagnosticar erros comuns de hardware
+- [Checklist para montagem](Checklist.md) - Guia prático
+- [Procedimentos de diagnóstico](Diagnosticos.md) - Erros comuns de hardware
 - [Como escolher as peças para montagem](Pecas.md) - Entender melhor cada componente do computador
-- [Ferramentas recomendadas](Ferramentas.md) - Softwates usados para análise de desempenho e erros
+- [Ferramentas recomendadas](Ferramentas.md) - Softwares usados para análise de desempenho e erros
   
   ---
   
