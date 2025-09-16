@@ -53,7 +53,7 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
   - Tela azul em jogos.
 
 **Possíveis causas:**
-- Cabo de video com mal encaixado;
+- Cabo de vídeo com mal encaixado;
 - Placa de vídeo com defeito;
 - Problemas com monitor;
 - Configurações de resolução erradas.
@@ -64,17 +64,25 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
 - Tente trocar o cabo HDMI;
 - Verifique se seu monitor está funcionando corretamente conectando ele à outro dispositivo;
 - Verifique se a placa de vídeo está corretamente conectada;
-- Caso não possua placa de vídeo, certifique-se que seu processador possui video integrado;
+- Caso não possua placa de vídeo, certifique-se que seu processador possui vídeo integrado;
 - Artefatos na tela geralmente indicam problemas com VRAM, consulte um profissional;
 - Tela azul pode ser ocasionada por superaquecimento da placa de vídeo.
 
 **Se seu computador exibe vídeo mas com problemas de resolução:**
 - Clique com o botão direito do mouse na área de trabalho e selecione "configurações de exibição";
-- A partir dessas configurações você poderá alterar coisas como resolução e configurar mais de um monitor.
+- A partir dessas configurações você poderá alterar coisas como resolução e configurar mais de um monitor;
+- Fonte de alimentação fraca pode prejudicar elementos gráficos em casos de placa de vídeo dedicadas;
+- Tente reinstalar os drivers da placa de vídeo.
 
 **Notas**
-- Atualize semanalmente os drivers da placa de vídeo
-- Realize limpezas preventivas para evitar acúmulo de poeira na placa de vídeo
+- Atualize mensalmente os drivers da placa de vídeo;
+- Realize limpezas preventivas para evitar acúmulo de poeira na placa de vídeo;
+- Utilize sites oficiais da NVIDIA ou AMD para baixar os drivers;
+- Utilize softwares como MSI Afterburner ou HWMonitor para monitorar a temperatura e uso da placa de vídeo;
+- Alguns monitores podem possuir drivers próprios, verifique no site da fabricante.
+
+ > 💡 **Dica Extra:**  
+> Pressione <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> para reiniciar rapidamente os drivers de vídeo.
 
   ---
   
