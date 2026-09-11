@@ -17,7 +17,7 @@ Abordaremos nesse guia, algumas situações fictícias de hardware apresentando 
     ---
  ###  **🔌 Problemas de inicialização**
  Se seu computador não dá nenhum sinal de vida, sugiro que confira os seguintes componentes:
- - Certifique-se de que o cabo de força da fonte de alimentação está bem fixo;
+ - Certifique-se de que o cabo de alimentação da fonte de está bem fixo;
  - Confira se os componentes estão bem fixados à placa-mãe.
 
 **Sintomas:**
